@@ -2,7 +2,7 @@
   "name": "minimum-progressive-web-application",
   "short_name": "min-pwa",
   "icons": [{
-      "src": "/ic_launcher.png",
+      "src": "ic_launcher.png",
       "sizes": "192x192",
       "type": "image/png"
     }],
